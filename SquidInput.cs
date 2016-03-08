@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Craswell.Squid.Helper
+﻿namespace Craswell.Squid.Helper
 {
     /// <summary>
     /// Squid input.
